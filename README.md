@@ -1,4 +1,4 @@
-# Split Ergo Ortholinear Hotswap Keyboard 
+# Split Ergo Ortholinear Hotswap Keyboard based on nice!nano
 
 This project attempts to create easelly reproducible split ortholinear  hotswap mechanical
 keyboard. 
@@ -13,4 +13,3 @@ Gimmics:
 
 # Gallery
 
-![PCB](Media/both.png)
