@@ -13,3 +13,4 @@ Gimmics:
 
 # Gallery
 
+![PCB](/Media/both.png)
